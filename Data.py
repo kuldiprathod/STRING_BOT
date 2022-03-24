@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [NOBITA!](https://t.me/REPOKIDUNIYA)
+✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [NOBITA!](https://t.me/mahakalspamcontrolroom)
     """
 
     # Home Button
@@ -33,12 +33,12 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🎉 Start Generating Session 🎉", callback_data="generate")],
-        [InlineKeyboardButton("💕 JOIN FOR REPOS 😙✌️", url="https://t.me/REPOKIDUNIYA")],
+        [InlineKeyboardButton("💕 JOIN FOR REPOS 😙✌️", url="https://t.me/mahakalspamcontrolroom")],
         [
             InlineKeyboardButton("How to Use 🤭❔", callback_data="help"),
             InlineKeyboardButton("😏 About 😏", callback_data="about")
         ],
-        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/REPOKIDUNIYA")],
+        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/mahakalspamcontrolroom")],
     ]
 
     # Help Message
@@ -59,7 +59,7 @@ You can use me to generate pyrogram and telethon string session. Use below butto
 
 A telegram bot to Manage group and generate pyrogram and telethon string session by Nobita
 
-Source Code : [Click Here](https://t.me/REPOKIDUNIYA)
+Source Code : [Click Here](https://t.me/mahakalspamcontrolroom)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
